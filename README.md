@@ -194,7 +194,7 @@ curl --location 'http://127.0.0.1:8000/v1/images/generations' \
   ```
 ## 支持
 
-### [技术交流-discord](https://discord.gg/CJqT93bz)
+### [技术交流-discord](https://discord.gg/2RYqJWhy)
 ### [技术交流vx](https://m.qpic.cn/psc?/V504mQ6B3aNgg24a240d0gcbdb0Ts5fz/ruAMsa53pVQWN7FLK88i5qZeucLMKtT5QNvZcgyjfMczuKC08kkaUO.pkQ4TtUM.DKkGBSIvKkBNeMKbZ5MyOv0.XIJ47ojxLC2r32Nj7iQ!/b&bo=*AL6A*wC.gMBByA!&rf=viewer_4)
 ### [技术交流vx qun](https://iili.io/JGyUgn4.jpg)
 
